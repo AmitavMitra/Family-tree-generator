@@ -1,0 +1,4 @@
+﻿Person1,Relation,Person2,Gender,Details
+A,First_ancestor,,M,Add details if needed
+B,Child,A,M,Add details if needed
+C,Spouse,B,F,Add details if needed
